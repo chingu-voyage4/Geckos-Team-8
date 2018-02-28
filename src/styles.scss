@@ -1,0 +1,10 @@
+$background-color: green;
+$font-stack: Helvetica, sans-serif;
+
+body {
+    background: $background-color;
+    font-family: $font-stack;
+    font-size: 100px;
+    font-weight: strong;
+    color: yellowgreen;
+}
